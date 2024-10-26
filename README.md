@@ -1,5 +1,5 @@
 
-<h2 align="left">Hey there! I'm Joshua Rodriguez</h2>
+<h2 align="left">Hey there! I'm Andres Joshua Rodriguez</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
