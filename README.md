@@ -77,9 +77,9 @@ A Computer Science student at Universidad Peruana de Ciancias Aplicadas (UPC). M
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/andres-joshua-rodriguez-guerrero-3109b4263/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:arguerrero06@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/andres_jrg/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/andres-joshua-rodriguez-guerrero-3109b4263/"><img src="https://img.shields.io/badge/-Andres%20Joshua%20Rodriguez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:arguerrero06@gmail.com"><img src="https://img.shields.io/badge/-arguerrero06@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/andres_jrg/"><img src="https://img.shields.io/badge/-andres_jrg-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
