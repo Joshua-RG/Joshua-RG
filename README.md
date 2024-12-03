@@ -30,7 +30,6 @@ A Computer Science student at Universidad Peruana de Ciancias Aplicadas (UPC). M
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
@@ -38,7 +37,6 @@ A Computer Science student at Universidad Peruana de Ciancias Aplicadas (UPC). M
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 
 ### 🖍 &nbsp;Frontend Development
 
@@ -53,11 +51,10 @@ A Computer Science student at Universidad Peruana de Ciancias Aplicadas (UPC). M
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,bash,docker,git,github,linux,postman,unity&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,bash,docker,git,github,linux,postman,unity&perline=5)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
